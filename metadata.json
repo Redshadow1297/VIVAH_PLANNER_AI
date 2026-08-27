@@ -1,0 +1,6 @@
+{
+  "name": "ShaadiPlanner - Indian Wedding Management Platform",
+  "description": "A comprehensive, modern Indian Wedding Planner Management Platform with responsive web dashboard, mobile app preview, guest management, events timeline, accommodation, transport, meals, vendors, budget, and live command center.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
